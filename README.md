@@ -18,7 +18,13 @@ But a _home-made DIY protective face mask respirators_ works better than nothing
 
 So if you don't have a medical quality mask, then a home-made DIY protective face mask respirator is better than using nothing.
 
-How do we know this — see:
+How do we know this, and why do we think this — see:
 
 * [Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?](https://doi.org/10.1017/dmp.2013.43), by Anna Davies, Katy-Anne Thompson, Karthika Giri, George Kafatos, Jimmy Walker, Allan Bennett
 
+## Tutorials: DIY Face Masks
+
+Here is a list of different tutorial of making **home-made DIY protective face mask respirators**:
+
+* [EASY STEPS DIY Face Mask| No Sewing Machine](https://youtu.be/8K6ufO2JP-c)
+* [DIY Cloth Face Mask](https://www.instructables.com/id/DIY-Cloth-Face-Mask/)
