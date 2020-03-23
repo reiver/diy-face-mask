@@ -29,3 +29,4 @@ Here is a list of different tutorial of making **home-made DIY protective face m
 
 * [EASY STEPS DIY Face Mask| No Sewing Machine](https://youtu.be/8K6ufO2JP-c)
 * [DIY Cloth Face Mask](https://www.instructables.com/id/DIY-Cloth-Face-Mask/)
+* [DIY face mask N95 like, easy sew possibly .3 micron filter respirator, volunteer for hospitals, make](https://youtu.be/FSeDlVxQx1k)
