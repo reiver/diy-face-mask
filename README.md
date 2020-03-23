@@ -10,13 +10,14 @@ then this will go over one way to help protect yourself.
 
 ## Do DIY Face Masks Work?
 
-TL;DR — Yes, many DIY protective face masks do work. But medical quality masks tend to work better than their home-made counterparts.
+TL;DR — Yes, many _DIY protective face masks_ do seem work.
+But _medical quality masks_ tend to work better than their home-made counterparts!
 
-So — most _medical face mask_ tends to work better than most _home-made DIY protective face mask respirators_.
+So — most _medical face mask_ tend to work better than most _home-made DIY protective face mask respirators_.
 
 But a _home-made DIY protective face mask respirators_ works better than nothing.
 
-So if you don't have a medical quality mask, then a home-made DIY protective face mask respirator is better than using nothing.
+So if you don't have a _medical quality mask_, then a _home-made DIY protective face mask respirator_ is better than using nothing.
 
 How do we know this, and why do we think this — see:
 
