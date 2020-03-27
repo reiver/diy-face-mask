@@ -6,18 +6,20 @@ Do they work. And how you can create your own **home-made face mask**.
 
 For example, if you are concerned about the **COVID-19 coronavirus**,
 and don't have access to _medical face masks_,
-then this will go over one way to help protect yourself.
+then this will go over one way that may help protect yourself.
 
 ## Do DIY Face Masks Work?
 
 TL;DR — Yes, many _DIY protective face masks_ do seem work.
 But _medical quality masks_ tend to work better than their home-made counterparts!
 
-So — most _medical face mask_ tend to work better than most _home-made DIY protective face mask respirators_.
+So — most _medical face masks_ tend to work better than most _home-made DIY protective face mask respirators_.
 
-But a _home-made DIY protective face mask respirators_ works better than nothing.
+But a _home-made DIY protective face mask respirators_ may work better than nothing.
 
-So if you don't have a _medical quality mask_, then a _home-made DIY protective face mask respirator_ is better than using nothing.
+(Of course, the effectiveness of a DIY face mask you or someone else makes depends on how you made it, what it is made of, etc.)
+
+So if you don't have a _medical quality mask_, then a _home-made DIY protective face mask respirator_ is probably better than using nothing.
 
 How do we know this, and why do we think this — see:
 
@@ -30,3 +32,5 @@ Here is a list of different tutorial of making **home-made DIY protective face m
 * [EASY STEPS DIY Face Mask| No Sewing Machine](https://youtu.be/8K6ufO2JP-c)
 * [DIY Cloth Face Mask](https://www.instructables.com/id/DIY-Cloth-Face-Mask/)
 * [DIY face mask N95 like, easy sew possibly .3 micron filter respirator, volunteer for hospitals, make](https://youtu.be/FSeDlVxQx1k)
+
+(NOTE: I am NOT endorsing any of these tutorials. I am just listing tutorials I have come across.)
